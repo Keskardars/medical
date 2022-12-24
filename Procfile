@@ -1,0 +1,1 @@
+web: gunicorn umamedical.wsgi --log-file -
